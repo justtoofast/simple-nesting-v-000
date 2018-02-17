@@ -59,7 +59,7 @@ def dennis_ritchies_language
         }
      }
 	my_string = ""
-	my_string = programmer_hash[:dennis_ritchie][:languages] 
+	my_string = programmer_hash[:dennis_ritchie][:languages]
 	my_string
 end
 
